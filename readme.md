@@ -1,5 +1,5 @@
-读取视频音频时长
+## read mp4,mp3 length
 
-基于`ffmpeg`
+require `ffmpeg`
 
 [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)
